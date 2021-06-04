@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d4wmXwmk2CD/L7sQJRCe9aZPCWkiSVfkMeWVLduioVnPcqUN23uA35165tHSne+SNCxCN5DpMsyzlVLMxFix/g==",
+  "dgSpecHash": "V2jWxDI1HKzchZwqeOSTN+GvcQfef1e3BKkxgUvUOFANSdEjCv9SyOu+4+VhE4y7l8aBXGc1SytOrJZM/lCRvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marko\\RiderProjects\\icd0008-2020f\\homeworks\\Battleships\\WebApp\\WebApp.csproj",
+  "projectFilePath": "C:\\Users\\marko\\RiderProjects\\Battleships\\Battleships\\WebApp\\WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marko\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\marko\\.nuget\\packages\\microsoft.aspnetcore.authentication.certificate\\5.0.1\\microsoft.aspnetcore.authentication.certificate.5.0.1.nupkg.sha512",

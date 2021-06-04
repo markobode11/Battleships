@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marko\\RiderProjects\\icd0008-2020f\\homeworks\\Battleships\\WebApp\\WebApp.csproj": {}
+    "C:\\Users\\marko\\RiderProjects\\Battleships\\Battleships\\WebApp\\WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marko\\RiderProjects\\icd0008-2020f\\homeworks\\Battleships\\DAL\\DAL.csproj": {
+    "C:\\Users\\marko\\RiderProjects\\Battleships\\Battleships\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marko\\RiderProjects\\icd0008-2020f\\homeworks\\Battleships\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\marko\\RiderProjects\\Battleships\\Battleships\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\marko\\RiderProjects\\icd0008-2020f\\homeworks\\Battleships\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\marko\\RiderProjects\\Battleships\\Battleships\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\marko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marko\\RiderProjects\\icd0008-2020f\\homeworks\\Battleships\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\marko\\RiderProjects\\Battleships\\Battleships\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marko\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\marko\\RiderProjects\\icd0008-2020f\\homeworks\\Battleships\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\marko\\RiderProjects\\icd0008-2020f\\homeworks\\Battleships\\Domain\\Domain.csproj"
+              "C:\\Users\\marko\\RiderProjects\\Battleships\\Battleships\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\marko\\RiderProjects\\Battleships\\Battleships\\Domain\\Domain.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\marko\\RiderProjects\\icd0008-2020f\\homeworks\\Battleships\\Domain\\Domain.csproj": {
+    "C:\\Users\\marko\\RiderProjects\\Battleships\\Battleships\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marko\\RiderProjects\\icd0008-2020f\\homeworks\\Battleships\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\marko\\RiderProjects\\Battleships\\Battleships\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\marko\\RiderProjects\\icd0008-2020f\\homeworks\\Battleships\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\marko\\RiderProjects\\Battleships\\Battleships\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\marko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marko\\RiderProjects\\icd0008-2020f\\homeworks\\Battleships\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\marko\\RiderProjects\\Battleships\\Battleships\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marko\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -136,14 +136,14 @@
         }
       }
     },
-    "C:\\Users\\marko\\RiderProjects\\icd0008-2020f\\homeworks\\Battleships\\GameBrain\\GameBrain.csproj": {
+    "C:\\Users\\marko\\RiderProjects\\Battleships\\Battleships\\GameBrain\\GameBrain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marko\\RiderProjects\\icd0008-2020f\\homeworks\\Battleships\\GameBrain\\GameBrain.csproj",
+        "projectUniqueName": "C:\\Users\\marko\\RiderProjects\\Battleships\\Battleships\\GameBrain\\GameBrain.csproj",
         "projectName": "GameBrain",
-        "projectPath": "C:\\Users\\marko\\RiderProjects\\icd0008-2020f\\homeworks\\Battleships\\GameBrain\\GameBrain.csproj",
+        "projectPath": "C:\\Users\\marko\\RiderProjects\\Battleships\\Battleships\\GameBrain\\GameBrain.csproj",
         "packagesPath": "C:\\Users\\marko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marko\\RiderProjects\\icd0008-2020f\\homeworks\\Battleships\\GameBrain\\obj\\",
+        "outputPath": "C:\\Users\\marko\\RiderProjects\\Battleships\\Battleships\\GameBrain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marko\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -158,11 +158,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\marko\\RiderProjects\\icd0008-2020f\\homeworks\\Battleships\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\marko\\RiderProjects\\icd0008-2020f\\homeworks\\Battleships\\DAL\\DAL.csproj"
+              "C:\\Users\\marko\\RiderProjects\\Battleships\\Battleships\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\marko\\RiderProjects\\Battleships\\Battleships\\DAL\\DAL.csproj"
               },
-              "C:\\Users\\marko\\RiderProjects\\icd0008-2020f\\homeworks\\Battleships\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\marko\\RiderProjects\\icd0008-2020f\\homeworks\\Battleships\\Domain\\Domain.csproj"
+              "C:\\Users\\marko\\RiderProjects\\Battleships\\Battleships\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\marko\\RiderProjects\\Battleships\\Battleships\\Domain\\Domain.csproj"
               }
             }
           }
@@ -205,14 +205,14 @@
         }
       }
     },
-    "C:\\Users\\marko\\RiderProjects\\icd0008-2020f\\homeworks\\Battleships\\WebApp\\WebApp.csproj": {
+    "C:\\Users\\marko\\RiderProjects\\Battleships\\Battleships\\WebApp\\WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marko\\RiderProjects\\icd0008-2020f\\homeworks\\Battleships\\WebApp\\WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\marko\\RiderProjects\\Battleships\\Battleships\\WebApp\\WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "C:\\Users\\marko\\RiderProjects\\icd0008-2020f\\homeworks\\Battleships\\WebApp\\WebApp.csproj",
+        "projectPath": "C:\\Users\\marko\\RiderProjects\\Battleships\\Battleships\\WebApp\\WebApp.csproj",
         "packagesPath": "C:\\Users\\marko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marko\\RiderProjects\\icd0008-2020f\\homeworks\\Battleships\\WebApp\\obj\\",
+        "outputPath": "C:\\Users\\marko\\RiderProjects\\Battleships\\Battleships\\WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marko\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -227,11 +227,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\marko\\RiderProjects\\icd0008-2020f\\homeworks\\Battleships\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\marko\\RiderProjects\\icd0008-2020f\\homeworks\\Battleships\\DAL\\DAL.csproj"
+              "C:\\Users\\marko\\RiderProjects\\Battleships\\Battleships\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\marko\\RiderProjects\\Battleships\\Battleships\\DAL\\DAL.csproj"
               },
-              "C:\\Users\\marko\\RiderProjects\\icd0008-2020f\\homeworks\\Battleships\\GameBrain\\GameBrain.csproj": {
-                "projectPath": "C:\\Users\\marko\\RiderProjects\\icd0008-2020f\\homeworks\\Battleships\\GameBrain\\GameBrain.csproj"
+              "C:\\Users\\marko\\RiderProjects\\Battleships\\Battleships\\GameBrain\\GameBrain.csproj": {
+                "projectPath": "C:\\Users\\marko\\RiderProjects\\Battleships\\Battleships\\GameBrain\\GameBrain.csproj"
               }
             }
           }
